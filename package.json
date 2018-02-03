@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hakatashi/nicoseiga-dl/issues"
   },
-  "homepage": "https://github.com/hakatashi/nicoseiga-dl#readme"
+  "homepage": "https://github.com/hakatashi/nicoseiga-dl#readme",
+  "dependencies": {
+    "download": "^6.2.5"
+  }
 }
